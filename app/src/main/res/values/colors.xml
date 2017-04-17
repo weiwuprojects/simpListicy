@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#e6dedc</color>
+    <color name="colorPrimaryDark">#a49480</color>
+    <color name="colorAccent">#C5B9AE</color>
+    <color name="scrollBackground">#ded8d7</color>
+    <color name="eggshell">#e6dedc</color>
+    <color name="beigeDark">#a49480</color>
+    <color name="title">#000</color>
+</resources>
